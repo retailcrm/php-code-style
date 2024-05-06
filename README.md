@@ -15,7 +15,7 @@
     ]
     ```
 
-2. Выполняем `composer require --dev retailcrm/php-code-style dev-master`
+2. Выполняем `composer require --dev retailcrm/php-code-style ^1.0`
 3. Используем в `.php_cs.dist`
 
     ```php
