@@ -1,0 +1,20 @@
+# Dependency directories (remove the comment below to include it)
+vendor/
+
+composer.lock
+.php_cs.cache
+.phpunit.result.cache
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+
+# OS
+.DS_Store
+.Trashes
+*~
